@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Bionic-Otaku-6943adecda9244de9431631b7e3fba70',
+  rootNotionPageId: '6943adecda9244de9431631b7e3fba70',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '0172354f-2461-40c9-8dfd-a8e7c355a006',
 
   // basic site info (required)
   name: 'Bionic Otaku',
