@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Bionic Otaku',
-  domain: 'https://www.notion.so/bionicotaku/Bionic-Otaku-6943adecda9244de9431631b7e3fba70',
+  domain: 'https://bionicotaku.notion.site/bionicotaku/Bionic-Otaku-6943adecda9244de9431631b7e3fba70',
   author: 'Li Han',
 
   // open graph metadata (optional)
