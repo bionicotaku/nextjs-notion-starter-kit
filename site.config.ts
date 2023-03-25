@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Li Han',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'Personal site of Li Han',
 
   // social usernames (optional)
   twitter: 'Jormun_',
@@ -56,12 +56,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About Me',
-      pageId: 'e63eb3db1763441787360a0a2740f7aa'
+      title: 'Blogs',
+      pageId: '6943adecda9244de9431631b7e3fba70'
     },
     {
-      title: 'Contact',
-      pageId: '75963df8415e4028b175463504c805bd'
+      title: 'About',
+      pageId: 'e63eb3db1763441787360a0a2740f7aa'
     },
     {
       title: 'Notes',
